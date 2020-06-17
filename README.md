@@ -8,3 +8,12 @@ Tasks:
 * Cholesky factorization
 * Normal equations and polynomial fitting
 * Regularized image denoising
+
+
+# Assignment 2
+Tasks:
+* Polynomial regression
+    * MLE, MAP
+* Expectation-maximization
+    * Gaussian mixture models
+    * Image color segmentation
