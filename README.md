@@ -17,3 +17,20 @@ Tasks:
 * Expectation-maximization
     * Gaussian mixture models
     * Image color segmentation
+    
+    
+# Assignment 3
+Tasks:
+* Spatially-varying image convolution
+    * brute force
+    * power iteration factorization
+    * SVD for realistic kernels
+* Image deblurring with steepest descent
+
+
+# Assignment 4
+Tasks:
+* Discrete Fourier Transform
+   * Brute force
+   * Fast Fourier Transform
+* Analysing and Visualizing DFT Output
